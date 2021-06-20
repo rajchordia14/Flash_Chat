@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235047460729",
+    "project_id": "flash-chat-675f2",
+    "storage_bucket": "flash-chat-675f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235047460729:android:582357e0151fa1658119a8",
+        "android_client_info": {
+          "package_name": "co.rajchordia.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235047460729-5h7qu4qs5n5t1f0b9c6v3uprtjhh3kdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJpxv63T9tkNcor23Vd_DslviHaRIu7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235047460729-5h7qu4qs5n5t1f0b9c6v3uprtjhh3kdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
